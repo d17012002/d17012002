@@ -6,6 +6,8 @@
 
 ## About Me
 
+- 📚 Language preferences: **C++** for problem solving and **Python** for AI.
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on projects involving **Web Development**.
