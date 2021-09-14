@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.pngaaa.com/771/1523771-middle.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.imgbin.com/9/6/21/imgbin-programmer-computer-programming-source-code-editor-software-developer-others-bmwAJTpfCRAGiMqLiriwmFV3X.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anurag</h1>
 <h3 align="center">VIT'24 | Web Developer | Coder</h3>
