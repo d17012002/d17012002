@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 📚 Language preferences: **C++** for problem solving and **Python** for AI.
+- 📚 Language preferences: **C++** for problem solving and **Python** for AI projects.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
