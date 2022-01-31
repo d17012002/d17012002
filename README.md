@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m a full stack web developer and looking to collaborate on projects involving **Web Development**.
+- 👯 I’m a **full stack web developer** and looking to collaborate on projects involving **Web Development**.
 
 - 📫 How to reach me **2002anuragksingh@gmail.com**
 
