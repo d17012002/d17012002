@@ -6,11 +6,11 @@
 
 ## About Me
 
-- 📚 Language preferences: **C++** for problem solving and **Python** for AI projects.
+- 📚 Language preferences: **C++** and **Python**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on projects involving **Web Development**.
+- 👯 I’m a full stack web developer and looking to collaborate on projects involving **Web Development**.
 
 - 📫 How to reach me **2002anuragksingh@gmail.com**
 
@@ -18,10 +18,8 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/anurag-kumar-41526b1ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/d17012002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/d.17012002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
