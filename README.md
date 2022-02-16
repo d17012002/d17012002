@@ -8,7 +8,7 @@
 
 - 📚 Language preferences: **C++** and **Python**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently into **competitive coding** and learning **DSA.**
 
 - 👯 I’m a **full stack web developer** and looking to collaborate on projects involving **Web Development**.
 
@@ -20,6 +20,6 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/anurag-kumar-41526b1ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/d17012002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/d.17012002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/d17012002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
