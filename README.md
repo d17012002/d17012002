@@ -8,7 +8,7 @@
 
 - 📚 Language preferences: **C++** and **Python**.
 
-- 🌱 I’m currently into **competitive coding** and learning **DSA.**
+- 🌱 I’m currently into **competitive coding** and learning **WEB3**
 
 - 👯 I’m a **full stack web developer** and looking to collaborate on projects involving **Web Development**.
 
