@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.hackernoon.com/images/f2px36fy.gif" width="10px" height="10px"/></a>
+<a href="#"><img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anurag</h1>
 <h3 align="center">VIT'24 | Web Developer | Coder</h3>
