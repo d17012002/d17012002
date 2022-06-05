@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anurag</h1>
-<h3 align="center">VIT'24 | Web Developer | Coder</h3>
+<h1 align="center">Hi 👋, I'm Anurag</h1>
+<h3 align="center">VIT'24 | Full Stack Web Developer | Coder</h3>
 
 
 ## About Me
