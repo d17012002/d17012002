@@ -20,15 +20,16 @@
 <code> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"></code>
 <code><img height="40" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2016/12/nodejs-logo.png"></code>
+<code><img height="40" src="https://i7.pngguru.com/preview/724/306/377/c-programming-language-icon-letter-c-png.jpg"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
-<code><img height="40" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
+<code><img height="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"></code>
-<code><img height="40" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ajy8xhmi0bw13ioscl7ww28o2rlbu2yeiyx2rz0s&rid=giphy.gif&ct=s"></code>
+<code><img height="40" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"></code>
 
 ## Connect with me:
 <p align="left">
